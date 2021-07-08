@@ -3,10 +3,9 @@
    <description></description>
    <name>test</name>
    <tag></tag>
-   <UUID>711ec60f-5090-4caf-ba98-54c424dfc339</UUID>
+   <UUID>c84650ee-cb5e-4a36-b244-5c4df96b316d</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\haimnguyen\Katalon Studio\testtest\test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +24,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>WEBUI</type>
+   <type>GENERIC</type>
 </Project>
