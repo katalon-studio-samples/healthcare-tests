@@ -1,0 +1,107 @@
+{
+  "keywordFileContentHash": "C6D6D4626974E0B27DFA53CF2AEA4FA5",
+  "keywordClasses": [
+    {
+      "name": "com.example.WebUICustomKeywords",
+      "keywordMethods": [
+        {
+          "name": "isElementPresent",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "timeout",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Check if element present in timeout\r\n\t * @param to Katalon test object\r\n\t * @param timeout time to wait for element to show up \r\n\t * @return true if element present, otherwise false\r\n\t */"
+        },
+        {
+          "name": "getHtmlTableRows",
+          "parameters": [
+            {
+              "name": "table",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "outerTagName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Get all rows of HTML table\r\n\t * @param table Katalon test object represent for HTML table\r\n\t * @param outerTagName outer tag name of TR tag, usually is TBODY\r\n\t * @return All rows inside HTML table \r\n\t */"
+        },
+        {
+          "name": "getHtmlTableColumns",
+          "parameters": [
+            {
+              "name": "row",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "org.openqa.selenium.WebElement",
+                "unresolvedClassName": "WebElement",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "tagName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Get all cells of HTML table row\r\n\t * @param row a WebElement instance represent for HTML table row \r\n\t * @param tagName HTML column tag name, usually is TD/TH\r\n\t * @return All cells inside HTML table row \r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
