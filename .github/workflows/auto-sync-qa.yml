@@ -15,7 +15,7 @@ jobs:
           path: target-repo
 
       - name: Scan repository for QA
-        uses: katalon-studio-samples/testops-sync-script-repo-action@main
+        uses: katalon-studio-samples/testops-sync-script-repo-action@TES-1829
         with: 
           path: target-repo
           github-url: https://github.com/katalon-studio-samples/healthcare-tests
@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
 
       - name: Scan repository for staging
-        uses: katalon-studio-samples/testops-sync-script-repo-action@main
+        uses: katalon-studio-samples/testops-sync-script-repo-action@TES-1829
         with: 
           path: target-repo
           github-url: https://github.com/katalon-studio-samples/healthcare-tests
