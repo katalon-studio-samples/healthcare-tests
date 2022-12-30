@@ -18,7 +18,6 @@ jobs:
         uses: katalon-studio-samples/testops-sync-script-repo-action@TES-1829
         with: 
           path: target-repo
-          github-url: https://github.com/katalon-studio-samples/healthcare-tests
           testops-base-url: https://testops.qa.katalon.com
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
@@ -28,7 +27,6 @@ jobs:
         uses: katalon-studio-samples/testops-sync-script-repo-action@TES-1829
         with: 
           path: target-repo
-          github-url: https://github.com/katalon-studio-samples/healthcare-tests
           testops-base-url: https://testops.staging.katalon.com
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
