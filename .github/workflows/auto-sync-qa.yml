@@ -46,7 +46,7 @@ jobs:
           path: target-repo
 
       - name: Scan repository
-        uses: katalon-studio-samples/testops-sync-script-repo-action
+        uses: katalon-studio-samples/testops-sync-script-repo-action@main
         with: 
           path: target-repo
           github-url: https://github.com/katalon-studio-samples/healthcare-tests
