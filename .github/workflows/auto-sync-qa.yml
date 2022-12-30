@@ -7,6 +7,18 @@ on:
       - TES-1829
 
 jobs:
+
+  generate:
+    uses: katalon-studio-samples/testops-sync-script-repo-action/.github/workflows/generate-repo-metadata.yml@main
+    with:
+      repository-name: healthcare-tests
+      testops-base-url: ${{ inputs.testops-base-url }}
+      branch: qa
+    secrets:
+      username: ${{ secrets.USERNAME }}
+      password: ${{ secrets.PASSWORD }}
+      token: ${{ secrets.TOKEN }}
+
   build:
     runs-on: ubuntu-latest
     steps:
@@ -27,16 +39,6 @@ jobs:
       #     -H "X-GitHub-Api-Version: 2022-11-28" \
       #     https://api.github.com/repos/katalon-studio-samples/testops-sync-script-repo-action/actions/workflows/qa.yml/dispatches \
       #     -d '{"ref":"main"}'
-      
-      - uses: katalon-studio-samples/testops-sync-script-repo-action/.github/workflows/generate-repo-metadata.yml@main
-        with:
-          repository-name: healthcare-tests
-          testops-base-url: ${{ inputs.testops-base-url }}
-          branch: qa
-        secrets:
-          username: ${{ secrets.USERNAME }}
-          password: ${{ secrets.PASSWORD }}
-          token: ${{ secrets.TOKEN }}
 
       - name: Checkout main
         uses: actions/checkout@v3
