@@ -9,7 +9,7 @@ on:
 jobs:
 
   generate:
-    uses: katalon-studio-samples/testops-sync-script-repo-action/.github/workflows/generate-repo-metadata.yml@main
+    uses: katalon-studio-samples/testops-sync-script-repo-action/.github/workflows/generate-repo-metadata.yml@TES-1829
     with:
       repository-name: healthcare-tests
       testops-base-url: ${{ inputs.testops-base-url }}
@@ -46,7 +46,7 @@ jobs:
           path: target-repo
 
       - name: Scan repository
-        uses: katalon-studio-samples/testops-sync-script-repo-action@main
+        uses: katalon-studio-samples/testops-sync-script-repo-action@TES-1829
         with: 
           path: target-repo
           github-url: https://github.com/katalon-studio-samples/healthcare-tests
