@@ -4,21 +4,8 @@ on:
   push:
     branch:
       - qa
-      - TES-1829
 
 jobs:
-
-  sync:
-    uses: katalon-studio-samples/testops-sync-script-repo-action/.github/workflows/generate-repo-metadata.yml@TES-1829
-    with:
-      repository-name: healthcare-tests
-      testops-base-url: https://testops.qa.katalon.com
-      branch: qa
-    secrets:
-      username: ${{ secrets.USERNAME }}
-      password: ${{ secrets.PASSWORD }}
-      token: ${{ secrets.TOKEN }}
-
   build:
     runs-on: ubuntu-latest
     steps:
@@ -28,7 +15,7 @@ jobs:
           path: target-repo
 
       - name: Scan repository for QA
-        uses: katalon-studio-samples/testops-sync-script-repo-action@TES-1829
+        uses: katalon-studio-samples/testops-sync-script-repo-action@main
         with: 
           path: target-repo
           github-url: https://github.com/katalon-studio-samples/healthcare-tests
@@ -38,7 +25,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
 
       - name: Scan repository for staging
-        uses: katalon-studio-samples/testops-sync-script-repo-action@TES-1829
+        uses: katalon-studio-samples/testops-sync-script-repo-action@main
         with: 
           path: target-repo
           github-url: https://github.com/katalon-studio-samples/healthcare-tests
