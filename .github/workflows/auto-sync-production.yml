@@ -11,13 +11,10 @@ jobs:
     steps:
       - name: Checkout main
         uses: actions/checkout@v3
-        with: 
-          path: target-repo
 
-      - name: Scan repository for QA
+      - name: Scan repository for production
         uses: katalon-studio-samples/testops-sync-script-repo-action@main
         with: 
-          path: target-repo
           testops-base-url: https://testops.katalon.io
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
