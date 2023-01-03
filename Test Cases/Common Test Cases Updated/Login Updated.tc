@@ -8,7 +8,7 @@ Steps:
 
 Expected result:
 'Appointment' section is displayed after successful login</description>
-   <name>Login</name>
+   <name>Login Updated</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>dc59940a-fb78-4da3-82c6-7ff4bffcfd97</testCaseGuid>

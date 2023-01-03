@@ -9,7 +9,7 @@ Steps:
 
 Expected result:
 'Appointment' section is displayed after successful login</description>
-   <name>TC1_Verify Successful Login</name>
+   <name>TC1_Verify Successful Login updated</name>
    <tag></tag>
    <comment>Story: Login to CURA system
 Given that the user has valid login information
