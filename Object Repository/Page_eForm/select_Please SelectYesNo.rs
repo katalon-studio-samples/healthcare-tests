@@ -6,15 +6,19 @@
    <elementGuidId>a8f7380d-d872-4737-b298-38b4ce051585</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#AccountNo</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='AccountNo']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'AccountNo' and (text() = 'Please SelectYesNo' or . = 'Please SelectYesNo')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#AccountNo</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,15 +27,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>886c7133-1a42-4081-bedf-470d246d7de1</webElementGuid>
+      <webElementGuid>1220531f-86ca-4bde-88d9-e2a8fabf2bd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>selectoption block field invalid-field</value>
-      <webElementGuid>0c69d256-54af-4657-827f-b8ffecbe66d8</webElementGuid>
+      <value>selectoption block field </value>
+      <webElementGuid>05b1f0e2-0888-41e0-ab58-1387a16c35c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +43,7 @@
       <name>id</name>
       <type>Main</type>
       <value>AccountNo</value>
-      <webElementGuid>7ede2483-0752-4bb5-b7c3-e84d11df82d1</webElementGuid>
+      <webElementGuid>3ae840e9-6c81-4d2b-9eb0-6a025850eaac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +51,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Please SelectYesNo</value>
-      <webElementGuid>89a26500-741f-43f3-ba03-0bf5eebaa4b5</webElementGuid>
+      <webElementGuid>84eb582e-fb1e-487c-b28f-fd517cc45b1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;AccountNo&quot;)</value>
-      <webElementGuid>41b7f495-85c7-46dd-83cf-dd1a2172fc2f</webElementGuid>
+      <webElementGuid>2d35d5ce-decd-4e62-8e38-272f85be4148</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='AccountNo']</value>
-      <webElementGuid>7470cb8f-1535-4316-94da-62ef50e7ffe5</webElementGuid>
+      <webElementGuid>3fb5500d-369b-4322-b6ac-e2682650f187</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ctrlField1092']/div/select</value>
-      <webElementGuid>9280771d-0b1d-464d-9b51-beefc0593968</webElementGuid>
+      <webElementGuid>00377293-82f8-4d17-9aa1-62dfa1437be5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
-      <webElementGuid>1682c1af-80ce-4096-9982-5a8545b165d1</webElementGuid>
+      <webElementGuid>4f4c900b-1ca5-4244-b988-5cad73289dcc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Account No.'])[1]/following::select[1]</value>
-      <webElementGuid>f33f3ffd-2628-40c5-8ece-627986afdf99</webElementGuid>
+      <webElementGuid>dceba35f-5f82-4e0b-916a-87f5a0a214b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an option from Account No.'])[1]/preceding::select[1]</value>
-      <webElementGuid>07874be7-bcd4-4219-a60b-b2532a458fa5</webElementGuid>
+      <webElementGuid>3d6dc513-ea16-4c86-8186-3d3222147c6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Location'])[1]/preceding::select[1]</value>
-      <webElementGuid>1e6d73c3-1a73-4262-83bf-ebe81f471187</webElementGuid>
+      <webElementGuid>673df8eb-034f-4be3-bfa9-4f395879e8c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/select</value>
-      <webElementGuid>8ababda7-dbcc-4aed-ada6-91e6d54c806a</webElementGuid>
+      <webElementGuid>8306e7c7-00c8-42c3-8f20-7cd86ee8d2f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +123,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'AccountNo' and (text() = 'Please SelectYesNo' or . = 'Please SelectYesNo')]</value>
-      <webElementGuid>ab5304c1-3e82-4d3c-98e9-5ebfdc1be1ff</webElementGuid>
+      <webElementGuid>93c00d56-ddc9-4855-bc7c-24da04faa626</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

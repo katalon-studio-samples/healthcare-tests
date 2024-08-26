@@ -52,13 +52,12 @@ WebUI.click(findTestObject('Object Repository/Page_BARISTA-UAT/input__SearchOb')
 
 //need to use scrollview
 WebUI.scrollToPosition(0, 2000)
+WebUI.scrollToElement(findTestObject('Object Repository/Page_BARISTA-UAT/input_POC_Next'),10)
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_BARISTA-UAT/input_POC_Next'))
 
 
 WebUI.click(findTestObject('Object Repository/Page_BARISTA-UAT/input_POC_Next'))
-
-
 
 WebUI.switchToWindowTitle('eForm')
 
@@ -69,41 +68,17 @@ WebUI.click(findTestObject('Object Repository/Page_eForm/span_Password_btnClose'
 WebUI.delay(10)
 
 //		REMARKS TAB
-WebUI.click(findTestObject('Object Repository/Page_eForm/label_Remarks'))
+//WebUI.click(findTestObject('Object Repository/Page_eForm/label_Remarks'))
 
-//		IPS TAB
+
+WebUI.waitForElementPresent(findTestObject('Object Repository/sectionTabs/Invalidity Information'), 0)
+// longer time wait for element
+WebUI.comment("When click Insured Person Information ")
 WebUI.click(findTestObject('Object Repository/Page_eForm/label_Insured Person Information'))
 
-WebUI.click(findTestObject('Object Repository/Page_eForm/input__NoticeandBenefitClaimFormReceivedDate1'))
+WebUI.comment("When click Invalidity Information ")
+WebUI.click(findTestObject('Object Repository/sectionTabs/Invalidity Information'))
 
-//Hard code date not work
-//WebUI.click(findTestObject('Object Repository/Page_eForm/NoticeandBenefitClaimFormReceivedDate1'))
-
-WebUI.click(findTestObject('Object Repository/Page_eForm/a_1'))
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/input__OccupationBasedonForm34'), 'CS')
-
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/input__AddressInsuredPersonInfo'), 'Taman Abadi')
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/input__AddressInsuredPersonInfo2'), 'Jalan 1/10')
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/input__AddressInsuredPersonInfo3'), 'Lorong 10')
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectJOHORKEDAHKELANTANMELAK_7e1e9c'), 
-    '200710', true)
-
-
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectRASASEMENYIHBUKIT ROTAN_9c7f7b'), 
-    '201430', true)
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/input__PostcodeInsuredPersonInfo'), '68100')
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectMalaysia'), '201749', true)
-
-//		EI TAB
-WebUI.click(findTestObject('Object Repository/Page_eForm/div_Employer Information'))
 
 // should populate from ASSIST
 //WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_State_Employer_Info'),
@@ -114,17 +89,6 @@ WebUI.click(findTestObject('Object Repository/Page_eForm/div_Employer Informatio
 
 
 
-//		OD Info Tab
-WebUI.click(findTestObject('Object Repository/Page_eForm/label_Occupational Disease Information'))
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/textarea__DescriptionofOD'), 'test')
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/textarea__Specifydutiesandhowinsuredpersone_db1a46'), 'test')
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/textarea__Pleaseexplainsymptomssignencountered'), 'test')
-//		MC Tab	
-//click mc tab first. date still not working
-WebUI.click(findTestObject('Object Repository/Page_eForm/label_Medical Certificate Information'))
 
 //WebUI.setText(findTestObject('Object Repository/Page_eForm/input__NameandAddressofClinicHospitalwhichP_250508'), 'HKL')
 //
@@ -151,16 +115,12 @@ WebUI.click(findTestObject('Object Repository/Page_eForm/label_Medical Certifica
 //WebUI.click(findTestObject('Object Repository/Page_eForm/a_23'))
 //
 //WebUI.click(findTestObject('Object Repository/Page_eForm/input_HUS Status_popActionButtons btnSummar_0363f4'))
-//		Wages info tab
+WebUI.comment("When click Wages info") 
 WebUI.click(findTestObject('Object Repository/Page_eForm/div_Wages Information'))
-//		Wages info tab
+
+WebUI.comment("When click Preferred SOCSO Office") 
 WebUI.click(findTestObject('Object Repository/Page_eForm/label_Preferred SOCSO Office'))
-//		cert by employer
-WebUI.click(findTestObject('Object Repository/Page_eForm/label_Certification by Employer'))
 
-WebUI.setText(findTestObject('Object Repository/Page_eForm/input__NameEmployerCert'), 'MAT')
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/input__DesignationEmployerCert'), 'CEO')
 // date still problem
 //WebUI.setText(findTestObject('Object Repository/Page_eForm/input__DateEmployerCert'), '')
 //
@@ -173,33 +133,37 @@ WebUI.setText(findTestObject('Object Repository/Page_eForm/input__DesignationEmp
 //    true)
 
 //WebUI.click(findTestObject('Object Repository/Page_eForm/a_31'))
-//		bank info tab
+WebUI.comment("When click bank info")
 WebUI.click(findTestObject('Object Repository/Page_eForm/div_Bank Information'))
 //
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectYesNo'), 'Yes', true)
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectYesNo'), 'Yes', true)
+//
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectLocalOverseas'), '204101', true)
+//
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectAGRO BANKAFFIN ISLAMIC _d4e6db'), 
+//    '802121', true)
+//
+//WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectSavingCurrent'), '204401', true)
+//
+//WebUI.setText(findTestObject('Object Repository/Page_eForm/input__BankAccountNo'), '34543543')
+//
+//WebUI.setText(findTestObject('Object Repository/Page_eForm/input__BankBranch'), 'KL')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectLocalOverseas'), '204101', true)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Page_eForm/label_Confirmation of Insured PersonDependa_d10068'), 0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectAGRO BANKAFFIN ISLAMIC _d4e6db'), 
-    '802121', true)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_eForm/select_Please SelectSavingCurrent'), '204401', true)
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/input__BankAccountNo'), '34543543')
-
-WebUI.setText(findTestObject('Object Repository/Page_eForm/input__BankBranch'), 'KL')
-//		Confirmation of Insured PersonDepend tab
+WebUI.comment("When click Confirmation of Insured PersonDepend")
 WebUI.click(findTestObject('Object Repository/Page_eForm/label_Confirmation of Insured PersonDependa_d10068'))
 
 WebUI.click(findTestObject('Object Repository/Page_eForm/input_Bank Information Completed_ctrlField666'))
-//		Supporting Document tab
+
+WebUI.comment("When click Supporting Document")
 WebUI.click(findTestObject('Object Repository/Page_eForm/label_Supporting Document'))
 
 //need to scroll 
 
 WebUI.scrollToElement(findTestObject('Object Repository/Page_eForm/sectionTabs'), 0)
 
-//		Preview  Submission tab
+WebUI.comment("When click Preview  Submission") 
 WebUI.click(findTestObject('Object Repository/Page_eForm/label_Preview  Submission'))
 
 //WebUI.click(findTestObject('Object Repository/Page_eForm/input_B32TEMP_NTO202400113.pdf_Submit'))
