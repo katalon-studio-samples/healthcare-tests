@@ -36,17 +36,22 @@ WebUI.click(findTestObject('Object Repository/Page_NXOne - Sign In using your Do
 
 WebUI.click(findTestObject('Object Repository/Page_BARISTA-UAT - BARISTA Main/a_Pre-Registration'))
 
+WebUI.comment("When select Accident")
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_BARISTA-UAT/select_AccidentDeath - PKTDeath - FOTODILAT'), 
-    'OD', true)
+    'Accident', true)
+
+WebUI.comment("When set IC No")
+WebUI.setText(findTestObject('Object Repository/Page_BARISTA-UAT/input__IdentificationNo'), employeeData.getValue('IC', 1))
 
 
-
+WebUI.comment("When select submission by")
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_BARISTA-UAT/select_Please SelectInsured PersonEmployerOthers'), 
     'Others', true)
 
-WebUI.setText(findTestObject('Object Repository/Page_BARISTA-UAT/input__IdentificationNo'), employeeData.getValue('IC', 1))
-
+WebUI.comment("When set Employer Code")
 WebUI.setText(findTestObject('Object Repository/Page_BARISTA-UAT/input__EmployerCodePreReg'), employeeData.getValue('EmployerCode', 1))
+
+
 
 WebUI.click(findTestObject('Object Repository/Page_BARISTA-UAT/input__SearchOb'))
 

@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Object Repository/Page_NXOne - Sign In using your Do
 WebUI.click(findTestObject('Object Repository/Page_BARISTA-UAT - BARISTA Main/a_Pre-Registration'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_BARISTA-UAT/select_AccidentDeath - PKTDeath - FOTODILAT'), 
-    'OD', true)
+    'Death - PKT', true)
 
 
 
