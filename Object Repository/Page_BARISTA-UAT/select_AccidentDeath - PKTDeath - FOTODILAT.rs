@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id = 'NoticeTypePreReg' and (text() = 'AccidentDeath - PKTDeath - FOTODILAT' or . = 'AccidentDeath - PKTDeath - FOTODILAT') and @ref_element = 'Object Repository/Page_BARISTA-UAT/iframe_Reemployment Scheduler_baristaPageOut']</value>
+         <value>//*[@class = 'selectoption block field' and @id = 'NoticeTypePreReg' and (text() = 'AccidentDeath - PKTDeath - FOTODILAT' or . = 'AccidentDeath - PKTDeath - FOTODILAT') and @ref_element = 'Object Repository/Page_BARISTA-UAT/iframe_Reemployment Scheduler_baristaPageOut']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#NoticeTypePreReg</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -27,15 +27,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>8c281aa0-a527-45cc-8f01-d5b779642ec4</webElementGuid>
+      <webElementGuid>2a3be8dc-6213-4e11-8c91-77543f86fe5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>selectoption block field</value>
-      <webElementGuid>dd0583d4-9c12-41c4-9061-e78e6afabf7a</webElementGuid>
+      <webElementGuid>19de5a6d-f3f0-4029-8d0f-f5b869a68643</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -43,7 +43,7 @@
       <name>id</name>
       <type>Main</type>
       <value>NoticeTypePreReg</value>
-      <webElementGuid>1d7b2b8e-3cc3-4ac8-b525-e08f40137155</webElementGuid>
+      <webElementGuid>61b81c9d-1535-404a-abe1-20c443be0e72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +51,7 @@
       <name>text</name>
       <type>Main</type>
       <value>AccidentDeath - PKTDeath - FOTODILAT</value>
-      <webElementGuid>57fe715a-37ea-4d35-bce0-2bb2d0e13c53</webElementGuid>
+      <webElementGuid>8eb8f125-992f-4b7e-94f7-b18c71f8c2b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -59,7 +59,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;NoticeTypePreReg&quot;)</value>
-      <webElementGuid>d255d58e-bb0b-47c2-a933-a596e80881d7</webElementGuid>
+      <webElementGuid>32a17268-9b7c-42c4-a35b-7417672c910b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -67,7 +67,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_BARISTA-UAT/iframe_Reemployment Scheduler_baristaPageOut</value>
-      <webElementGuid>79affe2f-ffbe-4009-a143-5480dc3b4e7e</webElementGuid>
+      <webElementGuid>3dc046a5-f209-4c32-ac23-489474adde9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='NoticeTypePreReg']</value>
-      <webElementGuid>aa87e89e-08ed-440c-b906-156cdffb8a6a</webElementGuid>
+      <webElementGuid>0d356dc8-f7a8-49f7-9c0c-2e0c5fb2c5ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ctrlField596']/div/select</value>
-      <webElementGuid>c6f4aece-4ff2-4a55-86ac-ace19f8647e2</webElementGuid>
+      <webElementGuid>1d1e276f-6d9c-4c74-a7e3-3c327d7e85be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notice Type'])[1]/following::select[1]</value>
-      <webElementGuid>98577eb5-dfc2-4ce1-aeb4-ed87ff8d4226</webElementGuid>
+      <webElementGuid>bd46dada-4c0c-41c0-a098-c6a01e0ca74c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Insured Person &amp; Employer Registration Status'])[1]/following::select[1]</value>
-      <webElementGuid>cf5a4067-9261-400f-801d-887bcaae1aec</webElementGuid>
+      <webElementGuid>c3945278-eb60-47ec-91ac-a8894e2c7300</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Accident Date'])[1]/preceding::select[1]</value>
-      <webElementGuid>6d91e8e7-ea6e-42b2-bfd1-680d55cc5e0b</webElementGuid>
+      <webElementGuid>fed32ae8-1e43-4690-81ee-cb956d324b9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::select[1]</value>
-      <webElementGuid>034ed54c-621a-4119-85d4-ee4fefcc1823</webElementGuid>
+      <webElementGuid>1bb30280-9473-48fe-8e3a-474809487aaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/select</value>
-      <webElementGuid>32d8a173-c71b-403e-82b7-58c15e9e336e</webElementGuid>
+      <webElementGuid>27d355bd-0203-4293-9ddb-55614837ec9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,6 +131,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'NoticeTypePreReg' and (text() = 'AccidentDeath - PKTDeath - FOTODILAT' or . = 'AccidentDeath - PKTDeath - FOTODILAT')]</value>
-      <webElementGuid>16394f08-345b-4450-bfa7-4b8b9a260e65</webElementGuid>
+      <webElementGuid>1777c1db-8f83-4757-a276-33faa2ace6af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
