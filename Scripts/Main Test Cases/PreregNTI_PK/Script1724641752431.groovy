@@ -47,7 +47,6 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_BARISTA-UAT/sel
 WebUI.comment("When set IC No")
 WebUI.setText(findTestObject('Object Repository/Page_BARISTA-UAT/input__IdentificationNo'), employeeData.getValue('IC', 1))
 
-WebUI.setText(findTestObject('Object Repository/Page_BARISTA-UAT/input__EmployerCodePreReg'), employeeData.getValue('EmployerCode', 1))
 
 WebUI.click(findTestObject('Object Repository/Page_BARISTA-UAT/input__SearchOb'))
 
