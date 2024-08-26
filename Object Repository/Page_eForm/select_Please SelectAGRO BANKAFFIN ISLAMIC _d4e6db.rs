@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please SelectAGRO BANKAFFIN ISLAMIC _d4e6db</name>
+   <tag></tag>
+   <elementGuidId>c72fa8e8-6fd6-4eaf-99c5-cd0af57988fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#BankNameLB</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='BankNameLB']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9fd0d1cb-cb18-471f-a1fe-a0c47f4ac48c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectoption block field</value>
+      <webElementGuid>2c75928a-8f09-4d8c-9bbd-8d49398b38ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BankNameLB</value>
+      <webElementGuid>0ccfd0dd-808c-432d-9954-e771c7f9f400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please SelectAGRO BANKAFFIN ISLAMIC BANK BERHADAMISLAMIC BANK BERHADALLIANCE ISLAMIK BANKAMBANK BERHADBANK ISLAMBANK KERJASAMA RAKYATBANK MUAMALATBANK OF TOKYO - MITSUBISHI UFJ (MALAYSIA) BERHADBANK PERTANIAN MALAYSIABANK SIMPANAN NASIONALCIMB BANK BERHADCITIBANKCIMB ISLAMIC BANK BHDDEUTSCHE BANK (MALAYSIA) BERHADEON BANKHSBC BANKHONG LEONG BANKHONG LEONG ISLAMIC BANKHSBC AMANAH MALAYSIA BERHADMAYBANKALLIANCE BANKOCBC BANKPUBLIC BANKAFFIN BANKPUBLIC ISLAMIC BANKRHB ISLAMIC BANK BERHADRHB BANKAL RAJHI BANKSTANDARD CHARTERED BANKSTANDARD CHARTERED SAADIQ BERHADUNITED OVERSEA BANK</value>
+      <webElementGuid>d87b1ec2-a6c3-45b7-8081-3cc9a8a6b3e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BankNameLB&quot;)</value>
+      <webElementGuid>ae12fa8b-02f8-4357-8a8d-ab90a41f0049</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='BankNameLB']</value>
+      <webElementGuid>cfe6be4c-5d03-45b2-9c9e-ccd0aad8e1a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctrlField1521']/div/select</value>
+      <webElementGuid>467493d2-2487-4f8b-8655-5e40c7764fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[1]</value>
+      <webElementGuid>d3a449c9-d360-4841-b0e4-61abcfb8c21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Name'])[1]/following::select[1]</value>
+      <webElementGuid>9fb252e4-65d7-4d30-8344-b6a90e477b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Swift Code'])[1]/preceding::select[1]</value>
+      <webElementGuid>64d88339-a782-4e92-ae9d-22a77d966a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Account Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>9edf5f4b-d7d5-4311-8045-d79307151037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/select</value>
+      <webElementGuid>9fe2ac48-2107-414f-93a8-aa4156116b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'BankNameLB' and (text() = 'Please SelectAGRO BANKAFFIN ISLAMIC BANK BERHADAMISLAMIC BANK BERHADALLIANCE ISLAMIK BANKAMBANK BERHADBANK ISLAMBANK KERJASAMA RAKYATBANK MUAMALATBANK OF TOKYO - MITSUBISHI UFJ (MALAYSIA) BERHADBANK PERTANIAN MALAYSIABANK SIMPANAN NASIONALCIMB BANK BERHADCITIBANKCIMB ISLAMIC BANK BHDDEUTSCHE BANK (MALAYSIA) BERHADEON BANKHSBC BANKHONG LEONG BANKHONG LEONG ISLAMIC BANKHSBC AMANAH MALAYSIA BERHADMAYBANKALLIANCE BANKOCBC BANKPUBLIC BANKAFFIN BANKPUBLIC ISLAMIC BANKRHB ISLAMIC BANK BERHADRHB BANKAL RAJHI BANKSTANDARD CHARTERED BANKSTANDARD CHARTERED SAADIQ BERHADUNITED OVERSEA BANK' or . = 'Please SelectAGRO BANKAFFIN ISLAMIC BANK BERHADAMISLAMIC BANK BERHADALLIANCE ISLAMIK BANKAMBANK BERHADBANK ISLAMBANK KERJASAMA RAKYATBANK MUAMALATBANK OF TOKYO - MITSUBISHI UFJ (MALAYSIA) BERHADBANK PERTANIAN MALAYSIABANK SIMPANAN NASIONALCIMB BANK BERHADCITIBANKCIMB ISLAMIC BANK BHDDEUTSCHE BANK (MALAYSIA) BERHADEON BANKHSBC BANKHONG LEONG BANKHONG LEONG ISLAMIC BANKHSBC AMANAH MALAYSIA BERHADMAYBANKALLIANCE BANKOCBC BANKPUBLIC BANKAFFIN BANKPUBLIC ISLAMIC BANKRHB ISLAMIC BANK BERHADRHB BANKAL RAJHI BANKSTANDARD CHARTERED BANKSTANDARD CHARTERED SAADIQ BERHADUNITED OVERSEA BANK')]</value>
+      <webElementGuid>5ae2b3a4-3330-42d5-bb90-714e8640c94c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bank Information</name>
+   <tag></tag>
+   <elementGuidId>b3fdaad5-99fe-4493-a06f-185476113e08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;Bank Information&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@name='Bank Information']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7806694a-26e2-4b3e-acef-4f711a1c9091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>1d285f07-a371-4eab-89b7-0fdc7f29ba8f</value>
+      <webElementGuid>63ce077c-7813-477e-85c4-2e74c2d46312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>formSectionProgressBarCell active</value>
+      <webElementGuid>32222314-9126-4b23-8abb-508068cefa87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>11</value>
+      <webElementGuid>ad4e0a7d-0f79-4b56-9a0b-148f032b6bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>11</value>
+      <webElementGuid>281d47fb-8e6c-4dda-b652-43a838c9b38c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Bank Information</value>
+      <webElementGuid>15f3b0c4-cb24-4e5f-b852-1e14ddd165e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bank Information</value>
+      <webElementGuid>dfb01fb3-2e57-4cc1-a293-d80db68da574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8b15f2c2-8901-4de4-8683-b40893c515e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1960ccc1-a119-4339-afad-079e730600a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bank Information</value>
+      <webElementGuid>d79d79a9-d379-4d86-bcb5-8cd41dbd6971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionTabs&quot;)/div[@class=&quot;formSectionProgressBarCell active&quot;]</value>
+      <webElementGuid>a34fbe17-9f28-4282-bc3f-815ee2de2645</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@name='Bank Information']</value>
+      <webElementGuid>ff7b4355-fe9e-4995-a0ad-94302f710277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionTabs']/div[11]</value>
+      <webElementGuid>deeaea90-2af6-4a2e-aaf6-35eac1818820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certification by Employer'])[1]/following::div[1]</value>
+      <webElementGuid>b7155904-0f80-4e15-a7c3-2c636bd92b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred SOCSO Office'])[1]/following::div[2]</value>
+      <webElementGuid>b63920f4-e3ed-4e84-bc6d-22bb9c73c485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirmation of Insured Person/Dependants/Claimant'])[1]/preceding::div[1]</value>
+      <webElementGuid>59bbc1b4-8255-4099-a1a7-31ac14f4e4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]</value>
+      <webElementGuid>ad5a8f37-4d1d-4883-baac-9ac9053b69a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@name = 'Bank Information' and @title = 'Bank Information' and (text() = 'Bank Information' or . = 'Bank Information')]</value>
+      <webElementGuid>e89ed231-4f9f-4950-821e-9f2ece0afa91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please SelectBenefit Reference Numbe_881114</name>
+   <tag></tag>
+   <elementGuidId>d947db7e-e27e-4177-9ba3-734d0fc20533</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ddSearchBy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ddSearchBy']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5460e2b2-90ef-4285-b4fe-e58d43100f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectoption block field</value>
+      <webElementGuid>c796d885-1f21-4ddb-9473-36b0b2d46628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ddSearchBy</value>
+      <webElementGuid>6187e344-ca65-4a47-9733-ead1a18f6094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please SelectBenefit Reference NumberIdentification NumberScheme Reference Number</value>
+      <webElementGuid>798ea2a9-53c1-4bf5-bd77-a5e90b07738a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddSearchBy&quot;)</value>
+      <webElementGuid>d019af86-6612-4bb1-98ad-0ffd152cad65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_BARISTA-UAT/iframe_Reemployment Scheduler_baristaPageOut</value>
+      <webElementGuid>8844d0c1-629e-4169-8a09-0074caf70a7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ddSearchBy']</value>
+      <webElementGuid>53185d28-68bc-477e-bcb9-fbac54bae7d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctrlField19']/div/select</value>
+      <webElementGuid>e27d87a9-032c-4d87-8d4c-5db26e89896f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search By'])[1]/following::select[1]</value>
+      <webElementGuid>e534d4e6-1146-4df8-b7b7-f35227261b57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revision'])[1]/following::select[2]</value>
+      <webElementGuid>978042d8-3c5b-493e-b9c0-2ef5936f2a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification Type'])[1]/preceding::select[1]</value>
+      <webElementGuid>2fab3ca0-0cc2-4c84-833b-2efab7a690e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification No.'])[1]/preceding::select[2]</value>
+      <webElementGuid>3f670e25-34fb-4420-a921-61aad821efc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/select</value>
+      <webElementGuid>f6ae0ed6-6d82-439b-87a0-483e67b3c071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ddSearchBy' and (text() = 'Please SelectBenefit Reference NumberIdentification NumberScheme Reference Number' or . = 'Please SelectBenefit Reference NumberIdentification NumberScheme Reference Number')]</value>
+      <webElementGuid>42608518-6ab5-44bf-8b9f-720a6feee013</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

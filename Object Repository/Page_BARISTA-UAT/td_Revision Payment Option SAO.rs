@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Revision Payment Option SAO</name>
+   <tag></tag>
+   <elementGuidId>6c3ed1b7-06fa-4791-8a0e-20f9b1f94c6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ellipsisClass.taskNameContext.taskMenuContext.k-state-selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AllProcessGrid']/div[2]/table/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5af5f9de-9ba2-44b4-a4ff-29d976151117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>0cb99995-d72a-4a16-86ca-0f3eae4f73c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ellipsisClass taskNameContext taskMenuContext k-state-selected</value>
+      <webElementGuid>05518b82-c8d4-47ad-aa5e-d2378f2d1ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Revision Payment Option SAO</value>
+      <webElementGuid>d965b848-86ca-4a21-8f29-06e8dd1da213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-model</name>
+      <type>Main</type>
+      <value>{&quot;ActivityInstID&quot;:&quot;980200505680652711FF5EC76BCF290E&quot;,&quot;Name&quot;:&quot;Revision Payment Option SAO&quot;,&quot;WorkItemID&quot;:&quot;980200505680652711FF5EC7BFF1A271&quot;,&quot;ClientData&quot;:&quot;&lt;?xml version=\&quot;1.0\&quot; encoding=\&quot;utf-8\&quot;?>&lt;ArrayOfNameValue xmlns:xsd=\&quot;http://www.w3.org/2001/XMLSchema\&quot; xmlns:xsi=\&quot;http://www.w3.org/2001/XMLSchema-instance\&quot; />&quot;,&quot;OriginalUserID&quot;:&quot;PKSUATBARWEB01\\uat_redzuan&quot;,&quot;WaitWorkPerformed&quot;:&quot;Yes&quot;,&quot;ApplName&quot;:&quot;Revision - FHUK Payment Option&quot;,&quot;ASSIGNED_DATE&quot;:&quot;2024/08/20 15:42:31&quot;,&quot;DUE_DATE&quot;:&quot;2024-08-21T15:42:00+08:00&quot;,&quot;Status&quot;:&quot;Assigned&quot;,&quot;CREATED_DATE&quot;:&quot;2024-08-20T15:42:31.33+08:00&quot;,&quot;Priority&quot;:&quot;Normal&quot;,&quot;DisplayName&quot;:&quot;SAO Form&quot;,&quot;ActivityName&quot;:&quot;eForms_StandardTask.2&quot;,&quot;WorkObjectID&quot;:&quot;980200505680652711FF5EC76BCF28AA&quot;,&quot;ProcDefID&quot;:&quot;980200505680652711FF5E0CA311BD72&quot;,&quot;ProcInstID&quot;:&quot;980200505680652711FF5EC76BCF28A9&quot;,&quot;SUPER_PROC_INST_ID&quot;:&quot;&quot;,&quot;ProcInstName&quot;:&quot;Revision Payment Option-2024-08-20T15:40:13:342&quot;,&quot;ProcessInitiator&quot;:&quot;PKSUATBARWEB01\\uat_norazrin&quot;,&quot;DefName&quot;:&quot;Revision Payment Option&quot;,&quot;UserID&quot;:&quot;PKSUATBARWEB01\\uat_redzuan&quot;,&quot;FullName&quot;:&quot;Mohd Redzuan bin Abu Jamil&quot;,&quot;Department&quot;:&quot;&quot;,&quot;DS&quot;:&quot;&quot;,&quot;PIE&quot;:&quot;eForms&quot;,&quot;PrioritySort&quot;:2,&quot;DueDate&quot;:&quot;2024/08/21 15:42:00&quot;,&quot;DueDateobj&quot;:&quot;2024-08-21T07:42:00.000Z&quot;,&quot;assigneddateobj&quot;:&quot;2024-08-20T07:42:31.033Z&quot;,&quot;ManualWorkItemDisplayName&quot;:&quot;Revision Payment Option SAO&quot;,&quot;ProcessDefinitionDisplayName&quot;:&quot;Revision Payment Option&quot;,&quot;ProcessInitiatorFullName&quot;:&quot;Norazrin binti Jumaat&quot;,&quot;StatusNew&quot;:&quot;Assigned&quot;}</value>
+      <webElementGuid>3dac9053-8c7a-43de-8b9d-06a4cad3f678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c82e9657-7350-40ac-aa46-5454515c0a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>93ff6925-8813-4952-a565-3d2bb1e79f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Revision Payment Option SAO</value>
+      <webElementGuid>eea6b4a2-ddd3-432e-91ce-450f8a29f466</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AllProcessGrid&quot;)/div[@class=&quot;k-grid-content&quot;]/table[@class=&quot;k-selectable&quot;]/tbody[1]/tr[1]/td[@class=&quot;ellipsisClass taskNameContext taskMenuContext k-state-selected&quot;]</value>
+      <webElementGuid>b53c8694-6c60-42d7-93c5-5f0925a74618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_BARISTA-UAT/iframe_Reemployment Scheduler_baristaPageOut</value>
+      <webElementGuid>71d6d42b-83f9-4e49-ac3e-4a4616cd1456</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AllProcessGrid']/div[2]/table/tbody/tr/td[3]</value>
+      <webElementGuid>621c8b82-d5ba-4829-a35b-302f01f62bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear GroupBy Column'])[1]/following::td[3]</value>
+      <webElementGuid>c324bf0e-2cd1-4cc2-91b0-a438281db674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select'])[2]/following::td[3]</value>
+      <webElementGuid>00875caa-be46-4ba1-89ea-4e40b67789de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revision Payment Option'])[2]/preceding::td[1]</value>
+      <webElementGuid>1f621dc5-83b8-4cb7-9b71-a77b17a9b713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Norazrin binti Jumaat'])[1]/preceding::td[2]</value>
+      <webElementGuid>fc14f0e2-2bf3-442c-b971-35d2ec9e2c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Revision Payment Option SAO']/parent::*</value>
+      <webElementGuid>b4b55d72-2369-417b-b6e1-3b82215637bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>db85e973-0102-4475-a82f-958e838d2acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@title = 'Revision Payment Option SAO' and (text() = 'Revision Payment Option SAO' or . = 'Revision Payment Option SAO')]</value>
+      <webElementGuid>196788b8-be10-4f05-abb6-bc8e497e556e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

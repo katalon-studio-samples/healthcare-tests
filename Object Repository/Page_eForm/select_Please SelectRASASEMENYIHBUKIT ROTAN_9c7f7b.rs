@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please SelectRASASEMENYIHBUKIT ROTAN_9c7f7b</name>
+   <tag></tag>
+   <elementGuidId>34e578ce-3a25-414b-aa3c-f6bf05eb78e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#CityIPI</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='CityIPI']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6d62cee5-2232-4fc0-b86c-fb1a1a37e7d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectoption block field invalid-field</value>
+      <webElementGuid>104794bf-3d97-4e51-b8de-052beb30594e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CityIPI</value>
+      <webElementGuid>91e4cb18-c5b7-4882-9a3d-0c31592dedb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please SelectRASASEMENYIHBUKIT ROTANSEPANGPULAU KETAMSUNGAI BESARKUALA SELANGORSHAH ALAMKAJANGBANDAR BARU BANGIKAPARPUCHONGKLANGSABAK BERNAMDENGKILKLIABATU CAVESPETALING JAYASUNGAI AYER TAWARBATU ARANGPANDANSERI KEMBANGANSUNGAI PELEKTELOK PANGLIMA GARANGTANJONG KARANGSUNGAI BULOHSERDANGCYBERJAYATANJONG SEPATKUALA KUBU BHARUBANTINGSUBANG AIRPORTHULU LANGATSERENDAHJENJAROMSUBANG JAYAKERLINGRAWANGCHERASBANGIBANDAR PUNCAK ALAMBERANANGPELABUHAN KLANGJERAMAMPANGPULAU INDAHSEKINCHANBATANG KALIGOMBAKPULAU CAREYBATANG BERJUNTAIBANDAR SUNWAYULU SELANGORKUALA LANGAT</value>
+      <webElementGuid>14ac30cd-0e00-4338-8df1-f9e8d715c6c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CityIPI&quot;)</value>
+      <webElementGuid>06c8564d-e949-4198-bc0b-2dbcb32a72e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='CityIPI']</value>
+      <webElementGuid>1417aca8-bddb-44c8-a09e-a74b46b5ab53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctrlField1482']/div/select</value>
+      <webElementGuid>cc80db23-198f-4c57-8909-73331ea1ff8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::select[1]</value>
+      <webElementGuid>6a3432f7-b454-4d88-bfde-9f0dc317bdda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/following::select[1]</value>
+      <webElementGuid>24f2973a-1ae1-4aef-8fcd-c0d752ce803e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postcode'])[1]/preceding::select[1]</value>
+      <webElementGuid>eb563c64-88a5-4c3c-b0f7-3fe7987c6037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/preceding::select[1]</value>
+      <webElementGuid>56629b63-1ce9-48a7-baff-2f11b42f6df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div[2]/div/div/select</value>
+      <webElementGuid>e72bf7c6-34bb-4abb-a23d-bd7c0388e992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'CityIPI' and (text() = 'Please SelectRASASEMENYIHBUKIT ROTANSEPANGPULAU KETAMSUNGAI BESARKUALA SELANGORSHAH ALAMKAJANGBANDAR BARU BANGIKAPARPUCHONGKLANGSABAK BERNAMDENGKILKLIABATU CAVESPETALING JAYASUNGAI AYER TAWARBATU ARANGPANDANSERI KEMBANGANSUNGAI PELEKTELOK PANGLIMA GARANGTANJONG KARANGSUNGAI BULOHSERDANGCYBERJAYATANJONG SEPATKUALA KUBU BHARUBANTINGSUBANG AIRPORTHULU LANGATSERENDAHJENJAROMSUBANG JAYAKERLINGRAWANGCHERASBANGIBANDAR PUNCAK ALAMBERANANGPELABUHAN KLANGJERAMAMPANGPULAU INDAHSEKINCHANBATANG KALIGOMBAKPULAU CAREYBATANG BERJUNTAIBANDAR SUNWAYULU SELANGORKUALA LANGAT' or . = 'Please SelectRASASEMENYIHBUKIT ROTANSEPANGPULAU KETAMSUNGAI BESARKUALA SELANGORSHAH ALAMKAJANGBANDAR BARU BANGIKAPARPUCHONGKLANGSABAK BERNAMDENGKILKLIABATU CAVESPETALING JAYASUNGAI AYER TAWARBATU ARANGPANDANSERI KEMBANGANSUNGAI PELEKTELOK PANGLIMA GARANGTANJONG KARANGSUNGAI BULOHSERDANGCYBERJAYATANJONG SEPATKUALA KUBU BHARUBANTINGSUBANG AIRPORTHULU LANGATSERENDAHJENJAROMSUBANG JAYAKERLINGRAWANGCHERASBANGIBANDAR PUNCAK ALAMBERANANGPELABUHAN KLANGJERAMAMPANGPULAU INDAHSEKINCHANBATANG KALIGOMBAKPULAU CAREYBATANG BERJUNTAIBANDAR SUNWAYULU SELANGORKUALA LANGAT')]</value>
+      <webElementGuid>45007452-315e-4379-8d50-87586759004f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

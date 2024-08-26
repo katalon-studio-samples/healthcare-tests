@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please SelectAdditional MCAppeal MB _e64f7c</name>
+   <tag></tag>
+   <elementGuidId>ec008ff4-328c-4c98-bdc3-883f7df0758c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#RevisionType</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='RevisionType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f495dc1a-14d3-43e0-86c4-10010adc6853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectoption block field</value>
+      <webElementGuid>c5a55731-022d-4e6d-ae1c-6d92ba4acb85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>RevisionType</value>
+      <webElementGuid>450a17e1-6ba7-4795-814e-725da1e5a7fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please SelectAdditional MCAppeal MB DecisionBankruptcyChange date of accidentChange date of ODChange Permanent Rep. / Appointed BankELS - ApplyELS - RemoveEmployee Not EligibleEmployment End DateFuneral BenefitHUK Payment OptionHUK/OD AssessmentILAT AssessmentInvalidityProfileProfile - Bank InformationProvisionalProvisional _ invalid rd_ikReemploymentReopen - BBK to BKReopen - BPK to PKRequest Option Section 96Return to SenderReverse DecisionReverse Decision - Employment InjuryUpdate StatusWages Information</value>
+      <webElementGuid>d0c9c0b6-2e53-4001-9d7f-e0112accdb06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RevisionType&quot;)</value>
+      <webElementGuid>122e8d16-45b8-4f91-a6c1-fa42071e1bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_BARISTA-UAT/iframe_Reemployment Scheduler_baristaPageOut</value>
+      <webElementGuid>f9950219-f0e2-40ca-970f-ebf25e7df400</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='RevisionType']</value>
+      <webElementGuid>765bb9a9-73e5-4132-bea9-617addbef8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctrlField2']/div/select</value>
+      <webElementGuid>e66b3a71-943d-4fc9-9357-ff40d1f6a4a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revision'])[1]/following::select[1]</value>
+      <webElementGuid>3fa74b2f-6b40-4524-8b2a-814520080804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Information'])[1]/following::select[1]</value>
+      <webElementGuid>8f04b940-e503-460d-9f49-991a88458795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search By'])[1]/preceding::select[1]</value>
+      <webElementGuid>850dda86-735d-4ca3-98f4-311a9c2c3cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification Type'])[1]/preceding::select[2]</value>
+      <webElementGuid>e941efea-4413-4448-b88e-b8508fb218b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/select</value>
+      <webElementGuid>7a098f4a-affc-4d22-8e55-38eabd815bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'RevisionType' and (text() = 'Please SelectAdditional MCAppeal MB DecisionBankruptcyChange date of accidentChange date of ODChange Permanent Rep. / Appointed BankELS - ApplyELS - RemoveEmployee Not EligibleEmployment End DateFuneral BenefitHUK Payment OptionHUK/OD AssessmentILAT AssessmentInvalidityProfileProfile - Bank InformationProvisionalProvisional _ invalid rd_ikReemploymentReopen - BBK to BKReopen - BPK to PKRequest Option Section 96Return to SenderReverse DecisionReverse Decision - Employment InjuryUpdate StatusWages Information' or . = 'Please SelectAdditional MCAppeal MB DecisionBankruptcyChange date of accidentChange date of ODChange Permanent Rep. / Appointed BankELS - ApplyELS - RemoveEmployee Not EligibleEmployment End DateFuneral BenefitHUK Payment OptionHUK/OD AssessmentILAT AssessmentInvalidityProfileProfile - Bank InformationProvisionalProvisional _ invalid rd_ikReemploymentReopen - BBK to BKReopen - BPK to PKRequest Option Section 96Return to SenderReverse DecisionReverse Decision - Employment InjuryUpdate StatusWages Information')]</value>
+      <webElementGuid>d814af0b-96e7-4052-936b-9331184947f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

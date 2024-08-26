@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employer Information</name>
+   <tag></tag>
+   <elementGuidId>0b6f6a63-f010-47de-8568-e8b1a93144f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div[name=&quot;Employer Information&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@name='Employer Information']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5cdbc3c6-d93f-453f-bacd-808e664909d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>c746caea-475f-4faf-916a-fbda729f2645</value>
+      <webElementGuid>0f447c5f-ae89-4af1-8693-cb63d3716049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>formSectionProgressBarCell active</value>
+      <webElementGuid>7b3c9ccb-5bc0-4221-a3d5-5ba84897644b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>2b2e6fa0-caf2-4e03-9ca7-b180c53223eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>3ec90da3-217e-4448-81c1-e3490cbc01e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Employer Information</value>
+      <webElementGuid>8a610d7d-0bc4-4c5f-9837-0fc75eb24608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Employer Information</value>
+      <webElementGuid>c46ada15-b454-4bf0-8fd0-41fba9cd212e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7a3991a1-9367-4872-a46c-58ce26618777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c75c74eb-78fb-4a53-b1c9-86c14675c0f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employer Information</value>
+      <webElementGuid>bf3e6fd7-cae8-4387-8b68-c038d00207f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionTabs&quot;)/div[@class=&quot;formSectionProgressBarCell active&quot;]</value>
+      <webElementGuid>95d76c26-b0b9-400e-9ba5-24e589391859</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@name='Employer Information']</value>
+      <webElementGuid>1093f964-2a45-48a9-89d9-1b24c5a3392e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sectionTabs']/div[4]</value>
+      <webElementGuid>fa0df5a5-22d8-433b-bae2-045a5fd8e0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insured Person Information'])[1]/following::div[1]</value>
+      <webElementGuid>ccc8f361-7e62-4060-9001-3830d16001fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Information'])[1]/following::div[2]</value>
+      <webElementGuid>2783c2e4-b174-478a-be71-776df9f66a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference Notice Information'])[1]/preceding::div[1]</value>
+      <webElementGuid>5a206546-5e3e-43c6-add8-85b42065314f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[4]</value>
+      <webElementGuid>ee02e25b-6ab1-435f-98b6-790b7de28d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@name = 'Employer Information' and @title = 'Employer Information' and (text() = 'Employer Information' or . = 'Employer Information')]</value>
+      <webElementGuid>115a6600-9d1b-46e9-97f2-4d8e87f8f2cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
