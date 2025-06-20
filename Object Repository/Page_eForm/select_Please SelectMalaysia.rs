@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please SelectMalaysia</name>
+   <tag></tag>
+   <elementGuidId>d501ddbf-519f-4cd5-ad0e-67cffe324694</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#NationalityDDL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='NationalityDDL']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>adf2af37-0498-4476-adba-6af162d17f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectoption block field invalid-field</value>
+      <webElementGuid>178d1a8c-e697-4a31-874b-28c1be367c9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>NationalityDDL</value>
+      <webElementGuid>9c445b02-1916-4e2c-ae6a-95ead44bfdea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please SelectMalaysia</value>
+      <webElementGuid>3c79ea13-3fb6-458c-8410-c8c9c997259d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;NationalityDDL&quot;)</value>
+      <webElementGuid>7f350a9a-7f1f-4479-91ab-0532ea0efcd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='NationalityDDL']</value>
+      <webElementGuid>133daef8-a221-448b-b0a1-980d547c7ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctrlField1720']/div/select</value>
+      <webElementGuid>908e4839-1a56-41a6-9bc7-1fae1fd58136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::select[1]</value>
+      <webElementGuid>5dde4aff-6146-4c38-93cf-c64170b4c12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/following::select[1]</value>
+      <webElementGuid>e493b65a-ad47-44e2-b1f0-936e65b62bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an option from Nationality'])[1]/preceding::select[1]</value>
+      <webElementGuid>1fd2e532-f286-49d4-ba52-da51cbb6a5b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::select[1]</value>
+      <webElementGuid>5dfacbb6-1de9-47a3-b09d-df2ab18f4a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div[2]/div/div/select</value>
+      <webElementGuid>c2ede332-c89b-4855-9482-fab982154faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'NationalityDDL' and (text() = 'Please SelectMalaysia' or . = 'Please SelectMalaysia')]</value>
+      <webElementGuid>07728532-ca60-4b3a-8d5e-a1f1519f6e40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

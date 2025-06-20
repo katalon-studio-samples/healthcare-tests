@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AccidentDeath - PKTDeath - FOTODILAT</name>
+   <tag></tag>
+   <elementGuidId>3074ece2-4561-4bf2-81a0-eaab065f9c1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='NoticeTypePreReg']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'selectoption block field' and @id = 'NoticeTypePreReg' and (text() = 'AccidentDeath - PKTDeath - FOTODILAT' or . = 'AccidentDeath - PKTDeath - FOTODILAT') and @ref_element = 'Object Repository/Page_BARISTA-UAT/iframe_Reemployment Scheduler_baristaPageOut']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#NoticeTypePreReg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2a3be8dc-6213-4e11-8c91-77543f86fe5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectoption block field</value>
+      <webElementGuid>19de5a6d-f3f0-4029-8d0f-f5b869a68643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>NoticeTypePreReg</value>
+      <webElementGuid>61b81c9d-1535-404a-abe1-20c443be0e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AccidentDeath - PKTDeath - FOTODILAT</value>
+      <webElementGuid>8eb8f125-992f-4b7e-94f7-b18c71f8c2b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;NoticeTypePreReg&quot;)</value>
+      <webElementGuid>32a17268-9b7c-42c4-a35b-7417672c910b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_BARISTA-UAT/iframe_Reemployment Scheduler_baristaPageOut</value>
+      <webElementGuid>3dc046a5-f209-4c32-ac23-489474adde9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='NoticeTypePreReg']</value>
+      <webElementGuid>0d356dc8-f7a8-49f7-9c0c-2e0c5fb2c5ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctrlField596']/div/select</value>
+      <webElementGuid>1d1e276f-6d9c-4c74-a7e3-3c327d7e85be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notice Type'])[1]/following::select[1]</value>
+      <webElementGuid>bd46dada-4c0c-41c0-a098-c6a01e0ca74c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Insured Person &amp; Employer Registration Status'])[1]/following::select[1]</value>
+      <webElementGuid>c3945278-eb60-47ec-91ac-a8894e2c7300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accident Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>fed32ae8-1e43-4690-81ee-cb956d324b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::select[1]</value>
+      <webElementGuid>1bb30280-9473-48fe-8e3a-474809487aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/select</value>
+      <webElementGuid>27d355bd-0203-4293-9ddb-55614837ec9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'NoticeTypePreReg' and (text() = 'AccidentDeath - PKTDeath - FOTODILAT' or . = 'AccidentDeath - PKTDeath - FOTODILAT')]</value>
+      <webElementGuid>1777c1db-8f83-4757-a276-33faa2ace6af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

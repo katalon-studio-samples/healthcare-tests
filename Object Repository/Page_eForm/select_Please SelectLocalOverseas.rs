@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please SelectLocalOverseas</name>
+   <tag></tag>
+   <elementGuidId>56383f69-8fb3-4767-b6a2-33209b731504</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='BankLocation1']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'BankLocation1' and (text() = 'Please SelectLocalOverseas' or . = 'Please SelectLocalOverseas')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#BankLocation1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>86e9bbd7-9f88-4d23-b837-b961bae04883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectoption block field</value>
+      <webElementGuid>80facde7-3cbd-4e40-ac53-f13457757b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BankLocation1</value>
+      <webElementGuid>d50721eb-26c0-4f47-ae0e-24d43a05f3fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please SelectLocalOverseas</value>
+      <webElementGuid>ab0ad94f-b4eb-4d2d-8872-7ded4acb922e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BankLocation1&quot;)</value>
+      <webElementGuid>3cd0cc9e-9a82-4471-9bb6-25746d5642ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='BankLocation1']</value>
+      <webElementGuid>8f6ea91b-89e7-46a6-aaf4-e7f3477824e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctrlField1093']/div/select</value>
+      <webElementGuid>ba8bc4a5-3f2e-42c0-a276-0df3d60d51d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>0fbd44db-adfd-46e7-a233-724227a7a4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Location'])[1]/following::select[1]</value>
+      <webElementGuid>0f39c9a8-9bbb-4a06-84f8-8a1f5574cbf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local Bank'])[1]/preceding::select[1]</value>
+      <webElementGuid>e39d0796-6100-43e2-ada2-a85d197fb69d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overseas Bank'])[1]/preceding::select[1]</value>
+      <webElementGuid>db838c51-6407-4e89-ae1e-9656aeec5d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/select</value>
+      <webElementGuid>69000dfd-36b0-4087-8762-bdd68215869d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'BankLocation1' and (text() = 'Please SelectLocalOverseas' or . = 'Please SelectLocalOverseas')]</value>
+      <webElementGuid>7d4dd57d-5097-4de7-86db-84b6ef0b7dd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please SelectJOHORKEDAHKELANTANMELAK_7e1e9c</name>
+   <tag></tag>
+   <elementGuidId>64e5fc80-5774-4b38-9d11-49e9e25af95d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#AddStateIPI</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'AddStateIPI']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='AddStateIPI']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8dc35a79-3be9-4c01-a3f4-9fdccdc94418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectoption block field invalid-field</value>
+      <webElementGuid>74200727-75ee-45bd-8125-1e4934a79b80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AddStateIPI</value>
+      <webElementGuid>b7784a82-b468-40a2-9ffa-c86c202f6746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please SelectJOHORKEDAHKELANTANMELAKANEGERI SEMBILANPAHANGPERAKPERLISPULAU PINANGSABAHSARAWAKSELANGORTERENGGANUTIDAK DIKETAHUIWILAYAH PERSEKUTUAN KUALA LUMPURWILAYAH PERSEKUTUAN LABUANWILAYAH PERSEKUTUAN PUTRAJAYA</value>
+      <webElementGuid>8c70b4e5-3654-48d1-a423-77bc98105f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddStateIPI&quot;)</value>
+      <webElementGuid>3a1fda73-bcd5-476e-9ec5-7c0881b42bde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='AddStateIPI']</value>
+      <webElementGuid>1fbfbc58-ea0e-4a69-af59-d78e55547da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctrlField1484']/div/select</value>
+      <webElementGuid>15631435-b235-413c-983e-73dbeae4aec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::select[1]</value>
+      <webElementGuid>e687e33f-6311-4bef-b787-75b4cddd0cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::select[1]</value>
+      <webElementGuid>50bd3385-2306-4204-b382-10eec4fa4552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an option from State'])[1]/preceding::select[1]</value>
+      <webElementGuid>ba4e351c-54bd-467e-9fa6-33ec7ad17646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/preceding::select[1]</value>
+      <webElementGuid>f5accbc9-f8af-4054-9a39-61c2b3154bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/div/select</value>
+      <webElementGuid>4ac20d53-6cde-454e-a5e3-f0fa0ee43d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'AddStateIPI' and (text() = 'Please SelectJOHORKEDAHKELANTANMELAKANEGERI SEMBILANPAHANGPERAKPERLISPULAU PINANGSABAHSARAWAKSELANGORTERENGGANUTIDAK DIKETAHUIWILAYAH PERSEKUTUAN KUALA LUMPURWILAYAH PERSEKUTUAN LABUANWILAYAH PERSEKUTUAN PUTRAJAYA' or . = 'Please SelectJOHORKEDAHKELANTANMELAKANEGERI SEMBILANPAHANGPERAKPERLISPULAU PINANGSABAHSARAWAKSELANGORTERENGGANUTIDAK DIKETAHUIWILAYAH PERSEKUTUAN KUALA LUMPURWILAYAH PERSEKUTUAN LABUANWILAYAH PERSEKUTUAN PUTRAJAYA')]</value>
+      <webElementGuid>ac711923-24bd-49fd-a53f-0536c38913ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
